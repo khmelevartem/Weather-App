@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_middle">16dp</dimen>
+    <dimen name="margin_big">24dp</dimen>
+    <dimen name="margin_extra_large">64dp</dimen>
+    <dimen name="icon_size">180dp</dimen>
+    <dimen name="text_extra_large">64sp</dimen>
+    <dimen name="text_large">24sp</dimen>
+    <dimen name="text_big">20sp</dimen>
+    <dimen name="text_middle">16sp</dimen>
+    <dimen name="radius_big">40dp</dimen>
+    <dimen name="item_forecast_item_width">150dp</dimen>
+</resources>
