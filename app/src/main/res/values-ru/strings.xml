@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="russia">Россия</string>
+    <string name="world">Мир</string>
+    <string name="feels_like">Ощущается как %d°</string>
+</resources>

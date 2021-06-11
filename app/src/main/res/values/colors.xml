@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ocean_700">#4751f2</color>
+    <color name="ocean_500">#9ca2f9</color>
+    <color name="ocean_200">#cfd3ff</color>
+    <color name="coral_200">#ffddd2</color>
+    <color name="coral_500">#ffa887</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
